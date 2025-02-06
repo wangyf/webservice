@@ -1,6 +1,6 @@
 from fastapi import FastAPI, Query
 from fastapi.middleware.cors import CORSMiddleware
-import my_python_module  # Replace with the actual import for your module
+#import my_python_module  # Replace with the actual import for your module
 
 app = FastAPI()
 
